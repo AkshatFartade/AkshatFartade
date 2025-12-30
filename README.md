@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akshat Fartade</h1>
+<h3 align="center">Passionate about Machine Learning & Data Exploration</h3>
 
-<!--
-**AkshatFartade/AkshatFartade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ML & AI projects**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 💬 Ask me about **Python, Data Science, ML**
+- 📫 How to reach me: **akshat@example.com**
+- ⚡ Fun fact: I love badminton & tech challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me:
+<p align="left">
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshat-fartade-2362b52ba/)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+
+</p>
+
+---
+
+## 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,mysql,tensorflow,pytorch" />
+</p>
