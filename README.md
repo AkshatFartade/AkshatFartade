@@ -8,9 +8,7 @@ Mostly Python | Data Science & Machine Learning | Open-Source Enthusiast
 📍 Raipur, Chhattisgarh  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatfartade&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
@@ -79,7 +77,4 @@ Mostly Python | Data Science & Machine Learning | Open-Source Enthusiast
 
 ---
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatfartade&show_icons=true&theme=dark" />
-</p>
+
